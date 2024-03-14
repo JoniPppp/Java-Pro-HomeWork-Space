@@ -23,4 +23,5 @@ public class CarFilter {
                 .filter(car -> car.getPrice() > higherThenPrice)
                 .toList();
     }
+
 }

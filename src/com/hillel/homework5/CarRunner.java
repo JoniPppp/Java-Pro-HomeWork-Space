@@ -37,7 +37,6 @@ public class CarRunner {
         cars.add(car8);
         cars.add(car9);
 
-
         System.out.println("All cars:");
         cars.forEach(System.out::println);
 
